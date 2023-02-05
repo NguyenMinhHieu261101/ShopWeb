@@ -1,0 +1,1 @@
+<li><a href="'.route('get.detail.product', [$product->pro_slug, $product->id]).'"></a></li>
